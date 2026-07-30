@@ -68,5 +68,6 @@ Insurance platforms serving UK and US markets — *SelfService (UK)* and *Aware 
 
 ## Education
 
-# **B.Tech, Information Technology — Rajabazar Science College (2016)**
-# **B.Sc (Hons.), Electronics — Acharya Prafulla Chandra College (2013)**
+ **B.Tech, Information Technology** — Rajabazar Science College (2016).
+ 
+ **B.Sc (Hons.), Electronics** — Acharya Prafulla Chandra College (2013).
